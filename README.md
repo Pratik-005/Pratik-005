@@ -3,7 +3,7 @@
 
 Hi ! 👋 My name is Pratik Pisudde
 ======================================================================================================================================
-Full Stack Web Developer
+Coding like poetry should be short and concise.
 ------------------------
 <br/>
 I am a creative and passionate developer with a vision of creating engaging and user-friendly digital experiences.
