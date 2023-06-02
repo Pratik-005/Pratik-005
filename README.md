@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src='https://my.spline.design/macbookprocopy-51a4456b9ebc194c02968783935f0a3b/' frameborder='0' width='100%' height='100%'></iframe>
+
+[<img src='https://my.spline.design/macbookprocopy-51a4456b9ebc194c02968783935f0a3b/' width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
