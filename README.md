@@ -1,7 +1,7 @@
 ![logo](https://github.com/Pratik-005/Pratik-005/blob/main/banner.png)
 <br/><br/><br/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratik Pisudde
+Hi ! 👋 My name is Pratik Pisudde
 ======================================================================================================================================
 
 Full Stack Web Developer
@@ -9,8 +9,8 @@ Full Stack Web Developer
 
 I am a creative and passionate developer with a vision of creating engaging and user-friendly digital experiences.
 
-* 🌍  I'm based in Navi Mumbai , Maharashtra
-* 🖥️  See my portfolio at [Pratik's Portfolio](http://pratikpisudde.netlify.app)
+* 🌍 Navi Mumbai , Maharashtra
+* 🖥️  See my portfolio at   <i class="fa-regular fa-arrow-up-right-from-square"></i> 
 * ✉️  You can contact me at [pkpisudde007@gmail.com](mailto:pkpisudde007@gmail.com)
 
 ### Skills
