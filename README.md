@@ -1,9 +1,5 @@
 Hi 👋 My name is Pratik Pisudde
-
-
-Full Stack Web Developer
 ------------------------
 
-bv gf chf cchy ghcth ghcthdytsdyrstaa3a3AREWwRWrARFAERATEATRRATR
+Full Stack Web Developer
 
-* 🌍  I'm based in India
