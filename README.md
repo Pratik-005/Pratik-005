@@ -1,7 +1,7 @@
 ![logo](https://github.com/Pratik-005/Pratik-005/blob/main/banner.png)
 <br/><br/>
 
-Hi ! 👋 I'm Pratik Pisudde
+Hi ! 👋 I'm Pratik 
 ======================================================================================================================================
 Coding like poetry should be short and concise.
 ------------------------
