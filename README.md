@@ -12,7 +12,7 @@ I am a creative and passionate developer with a vision of creating engaging and 
 * 🖥️  See my portfolio at [Pratik's Portfolio](http://pratikpisudde.netlify.app)
 * ✉️  You can contact me at [pkpisudde007@gmail.com](mailto:pkpisudde007@gmail.com)
 
-<img align="right" width="45%"  src="https://github.com/Pratik-005/Pratik-005/blob/main/coder.gif">
+
 
 
 ### Skills
