@@ -9,7 +9,7 @@ Coding like poetry should be short and concise.
 I am a creative and passionate developer with a vision of creating engaging and user-friendly digital experiences.
 
 * 🌍  I'm based in Navi Mumbai , Maharashtra
-* 🖥️  See my portfolio at [Pratik's Portfolio](http://pratikpisudde.netlify.app)
+* 🖥️  See my portfolio at [Pratik's Portfolio](http://pratikpisuddee.netlify.app)
 * ✉️  You can contact me at [pkpisudde007@gmail.com](mailto:pkpisudde007@gmail.com)
 
 
