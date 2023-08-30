@@ -9,7 +9,7 @@ Coding like poetry should be short and concise.
 I am a creative and passionate developer with a vision of creating engaging and user-friendly digital experiences.
 
 * 🌍  I'm based in Navi Mumbai , Maharashtra
-* 🖥️  See my portfolio at [Pratik's Portfolio](http://pratikpisuddee.netlify.app)
+* 🖥️  See my portfolio at <a href="http://pratikpisuddee.netlify.app" target="_blank" >Pratik's Portfolio</a> 
 * ✉️  You can contact me at [pkpisudde007@gmail.com](mailto:pkpisudde007@gmail.com)
 
 
@@ -57,9 +57,9 @@ I am a creative and passionate developer with a vision of creating engaging and 
 
 <p align="left">
  <a href="http://www.instagram.com/pratik_pisudde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/pratikpisudde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-   &nbsp;
+   &nbsp; &nbsp;
   <a href="https://www.twitter.com/pratik__005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
